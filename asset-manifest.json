@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.069e6a55.chunk.css",
+    "main.js": "/static/js/main.16f7f125.chunk.js",
+    "main.js.map": "/static/js/main.16f7f125.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a38cc5be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a38cc5be.js.map",
+    "static/js/2.aab4ad9e.chunk.js": "/static/js/2.aab4ad9e.chunk.js",
+    "static/js/2.aab4ad9e.chunk.js.map": "/static/js/2.aab4ad9e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.069e6a55.chunk.css.map": "/static/css/main.069e6a55.chunk.css.map",
+    "static/js/2.aab4ad9e.chunk.js.LICENSE.txt": "/static/js/2.aab4ad9e.chunk.js.LICENSE.txt",
+    "static/media/Ilustrator.c261bb69.svg": "/static/media/Ilustrator.c261bb69.svg",
+    "static/media/aftereffects.517fe42d.svg": "/static/media/aftereffects.517fe42d.svg",
+    "static/media/books.e4e628da.svg": "/static/media/books.e4e628da.svg",
+    "static/media/cinema4d.851ef7d7.svg": "/static/media/cinema4d.851ef7d7.svg",
+    "static/media/css3.8fba365c.svg": "/static/media/css3.8fba365c.svg",
+    "static/media/html5.821ba738.svg": "/static/media/html5.821ba738.svg",
+    "static/media/indesign.075a2fbb.svg": "/static/media/indesign.075a2fbb.svg",
+    "static/media/invitation.7b614373.svg": "/static/media/invitation.7b614373.svg",
+    "static/media/photoshop.2fb52ad3.svg": "/static/media/photoshop.2fb52ad3.svg",
+    "static/media/profile.d908632f.svg": "/static/media/profile.d908632f.svg",
+    "static/media/react.add74742.svg": "/static/media/react.add74742.svg",
+    "static/media/ui.c57ef709.svg": "/static/media/ui.c57ef709.svg",
+    "static/media/website.5f8c1f0f.svg": "/static/media/website.5f8c1f0f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a38cc5be.js",
+    "static/js/2.aab4ad9e.chunk.js",
+    "static/css/main.069e6a55.chunk.css",
+    "static/js/main.16f7f125.chunk.js"
+  ]
+}
